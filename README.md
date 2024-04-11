@@ -45,4 +45,4 @@ Sorry Rachel, I am super sick right now, can't make it to the class.
 </body>
 </html>
 
-Hyperlink for the site: [Noel's web](https://github.com/Noelli117/Noelli117.github.io/blob/main/index.html)
+Hyperlink for the site: [Noel's web](https://noelli117.github.io)
