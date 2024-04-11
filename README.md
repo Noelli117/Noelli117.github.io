@@ -1,5 +1,5 @@
 The html file we create last week inspired me a lot, I've done this project mostly through replacing the the existing modules.
-<!doctype html>
+" <!doctype html>
 <html lang="en">
 <header>
 <meta charset="UTF-8">
@@ -20,7 +20,7 @@ Sorry Rachel, I am super sick right now, can't make it to the class.
   <blockquote>"<b>I don't know what to say</b>, <i>My throat is burning and my head felt like a baloon floating in the air</i>, <b>And my cat was snoring next to my ear while I was trying to get some sleep</b>" -Noel Li</blockquote>
 </div>
   <br>
-  <div>
+  <div> "
   
   
    Again, simply replace the hyperlink with my own.
