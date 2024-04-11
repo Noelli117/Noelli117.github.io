@@ -46,3 +46,5 @@ Sorry Rachel, I am super sick right now, can't make it to the class.
 </html>
 
 Hyperlink for the site: [Noel's web](https://noelli117.github.io)
+I could not find the address for my own site so I asked one of the classmates about this, and then I knew
+that I could click on the "pages" in my github repo settings, and there is a visit site button which I can get access to my site.
